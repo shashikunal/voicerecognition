@@ -1,2 +1,2 @@
 # voicerecognition
-It java script based voice recognition app
+Its javascript based voice recognition app
